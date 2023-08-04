@@ -1,0 +1,23 @@
+.highcharts-background {
+  width: 100%;
+  fill: #22222c;
+  color: white;
+  height: 100%;
+  margin: 0 auto;
+}
+
+.highcharts-background text {
+  fill: white !important;
+}
+.highcharts-title {
+  display: none;
+}
+.highcharts-tooltip {
+  color: white !important;
+  fill: black !important;
+}
+.highcharts-tooltip .highcharts-tooltip-box {
+  outline: 1px solid #2aa2eb;
+  fill: #0d0e11;
+  color: white;
+}

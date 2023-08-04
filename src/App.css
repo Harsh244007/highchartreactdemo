@@ -1,0 +1,16 @@
+body {
+  padding: 20px;
+  max-width: 1200px;
+  margin: auto;
+  background-color: #22222c;
+  color: white;
+}
+body * {
+  transition: 0.3s all ease-in;
+  /* padding: 4px; */
+  scrollbar-width: thin;
+  color: white !important;
+}
+body  text{
+  fill: white !important;
+}
